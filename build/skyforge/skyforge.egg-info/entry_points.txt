@@ -1,3 +1,0 @@
-[console_scripts]
-test = skyforge.my_first_node:main
-
