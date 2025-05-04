@@ -1,0 +1,22 @@
+[0.667s] Invoking command in '/home/dwidjaja/ros2_ws/src/skyforge': PYTHONPATH=/home/dwidjaja/ros2_ws/src/build/skyforge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dwidjaja/ros2_ws/src/install/skyforge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/skyforge build --build-base /home/dwidjaja/ros2_ws/src/build/skyforge/build install --record /home/dwidjaja/ros2_ws/src/build/skyforge/install.log --single-version-externally-managed install_data
+[0.934s] running egg_info
+[0.935s] writing ../build/skyforge/skyforge.egg-info/PKG-INFO
+[0.935s] writing dependency_links to ../build/skyforge/skyforge.egg-info/dependency_links.txt
+[0.935s] writing entry points to ../build/skyforge/skyforge.egg-info/entry_points.txt
+[0.936s] writing requirements to ../build/skyforge/skyforge.egg-info/requires.txt
+[0.936s] writing top-level names to ../build/skyforge/skyforge.egg-info/top_level.txt
+[0.937s] reading manifest file '../build/skyforge/skyforge.egg-info/SOURCES.txt'
+[0.942s] writing manifest file '../build/skyforge/skyforge.egg-info/SOURCES.txt'
+[0.942s] running build
+[0.942s] running build_py
+[0.942s] copying skyforge/my_first_node.py -> /home/dwidjaja/ros2_ws/src/build/skyforge/build/lib/skyforge
+[0.942s] running install
+[0.942s] running install_lib
+[0.943s] copying /home/dwidjaja/ros2_ws/src/build/skyforge/build/lib/skyforge/my_first_node.py -> /home/dwidjaja/ros2_ws/src/install/skyforge/lib/python3.10/site-packages/skyforge
+[0.944s] byte-compiling /home/dwidjaja/ros2_ws/src/install/skyforge/lib/python3.10/site-packages/skyforge/my_first_node.py to my_first_node.cpython-310.pyc
+[0.944s] running install_data
+[0.944s] creating /home/dwidjaja/ros2_ws/src/install/skyforge/share/skyforge/launch
+[0.945s] copying launch/view_robot.launch.py -> /home/dwidjaja/ros2_ws/src/install/skyforge/share/skyforge/launch
+[0.945s] error: can't copy 'urdf/skyforge_robot.urdf': doesn't exist or not a regular file
+[0.945s] creating /home/dwidjaja/ros2_ws/src/install/skyforge/share/skyforge/urdf
+[0.960s] Invoked command in '/home/dwidjaja/ros2_ws/src/skyforge' returned '1': PYTHONPATH=/home/dwidjaja/ros2_ws/src/build/skyforge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dwidjaja/ros2_ws/src/install/skyforge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/skyforge build --build-base /home/dwidjaja/ros2_ws/src/build/skyforge/build install --record /home/dwidjaja/ros2_ws/src/build/skyforge/install.log --single-version-externally-managed install_data
